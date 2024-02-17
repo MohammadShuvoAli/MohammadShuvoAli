@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A dedicated Software Quality Assurance Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
-- 🌱 I’m currently learning **React.JS and Node.JS**
+- 🌱 I’m currently learning **Cypress & REST Assured**
 
-- 💬 Ask me about **.NET, Django**
+- 💬 Ask me about **Test Automation, Manual Testing, and Quality Assurance practices**
 
 - 📫 How to reach me **mohammadshuvoali@gmail.com**
 
