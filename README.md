@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 
 <h3 align="center">A dedicated Software Quality Assurance Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="Coding" width="390" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 - 🌱 I’m currently learning **Cypress & REST Assured**
 
