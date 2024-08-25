@@ -34,7 +34,6 @@
 ![PL/SQL](https://img.shields.io/badge/PL--SQL-%23000000.svg?style=for-the-badge&logo=pl-sql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300F6F6.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-%003C71.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![ActiveCollab](https://img.shields.io/badge/ActiveCollab-%23000000.svg?style=for-the-badge&logo=activecollab&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
