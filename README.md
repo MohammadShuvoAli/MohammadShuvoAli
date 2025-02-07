@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammadshuvoali@gmail.com**
 
-- ⚡ Fun fact **I can speak seven languages, but only in reverse. So, if you ever need to communicate in palindrome, I'm your go-to person! 🗣️🔄**
+- ⚡ Fun fact **I don’t break software — I just prove it was already broken. 😎🔍🐛**
 
 <h3 align="left" style="color: #00FF00;">Connect with me:</h3>
 <p align="left">
