@@ -1,53 +1,163 @@
+<div align="center">
+  
 [![MasterHead](https://raw.githubusercontent.com/MohammadShuvoAli/MohammadShuvoAli/main/bannar.gif)](https://www.linkedin.com/in/mohammadshuvoali/)
 
-<h1 align="center" style="color: #00FFFF;">Hi 👋, I'm Shuvo</h1>
+# 👋 Hi, I'm Shuvo
 
-<h3 align="center" style="color: #FF00FF;">A dedicated Software Quality Assurance Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="390" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automation+Lead+%40+Bit+Mascot;QA+Engineer+%7C+SDET;Passionate+about+Quality;Building+Scalable+Test+Frameworks" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **Playwright & K6**
+### 🎓 CSE Graduate from AIUB | 💻 Passionate Programmer | 🚀 Test Automation Enthusiast
 
-- 💬 Ask me about **Test Automation, Manual Testing, and Quality Assurance practices**
-
-- 📫 How to reach me **mohammadshuvoali@gmail.com**
-
-- ⚡ Fun fact **I don’t break software — I just prove it was already broken. 😎🔍🐛**
-
-<h3 align="left" style="color: #00FF00;">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammadshuvoali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammadshuvoali" height="30" width="40" style="filter: brightness(0) invert(1);"/></a>
-<a href="https://www.leetcode.com/shuvo4o4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvo4o4" height="30" width="40" style="filter: brightness(0) invert(1);"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadshuvoali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohammadshuvoali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.leetcode.com/shuvo4o4" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mohammadshuvoali&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-### 💻 Languages and Tools:
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-%23000000.svg?style=for-the-badge&logo=manual-testing&logoColor=white) 
-![Automation Testing](https://img.shields.io/badge/Automation%20Testing-%23000000.svg?style=for-the-badge&logo=automation-testing&logoColor=white) 
-![Selenium](https://img.shields.io/badge/Selenium-%234E9F3D.svg?style=for-the-badge&logo=selenium&logoColor=white) 
-![Cypress](https://img.shields.io/badge/Cypress-%23000F00.svg?style=for-the-badge&logo=cypress&logoColor=white) 
-![Playwright](https://img.shields.io/badge/Playwright-%2300B2A5.svg?style=for-the-badge&logo=playwright&logoColor=white) 
-![Cucumber](https://img.shields.io/badge/Cucumber-%2336C24A.svg?style=for-the-badge&logo=cucumber&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-%23000000.svg?style=for-the-badge&logo=rest-assured&logoColor=white) 
-![JMeter](https://img.shields.io/badge/JMeter-%23615A6E.svg?style=for-the-badge&logo=jmeter&logoColor=white) 
-![K6](https://img.shields.io/badge/K6-%23000000.svg?style=for-the-badge&logo=k6&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-%2307405C.svg?style=for-the-badge&logo=sql&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/PL--SQL-%23000000.svg?style=for-the-badge&logo=pl-sql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%2300F6F6.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) 
-![ActiveCollab](https://img.shields.io/badge/ActiveCollab-%23000000.svg?style=for-the-badge&logo=activecollab&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/Jenkins-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-%232C75C9.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-%23F80000.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E018.svg?style=for-the-badge&logo=javascript&logoColor=white) 
-![BDD](https://img.shields.io/badge/BDD-%23000000.svg?style=for-the-badge&logo=bdd&logoColor=white) 
-![SDLC](https://img.shields.io/badge/SDLC-%23000000.svg?style=for-the-badge&logo=sdlc&logoColor=white) 
-![STLC](https://img.shields.io/badge/STLC-%23000000.svg?style=for-the-badge&logo=stlc&logoColor=white) 
-![Agile](https://img.shields.io/badge/Agile-%2300B2A5.svg?style=for-the-badge&logo=agile&logoColor=white)
+</div>
 
-# 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadshuvoali&show_icons=true&locale=en&layout=compact" alt="mohammadshuvoali" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshuvoali&" alt="mohammadshuvoali" /></p>
+---
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+
+## 🚀 About Me
+
+```yaml
+name: Mohammad Shuvo Ali
+location: Bangladesh
+current_role: Automation Lead @ Bit Mascot
+education: Computer Science & Engineering (CSE) - AIUB
+focus: Test Automation & Quality Engineering
+currently_learning: 
+  - Playwright
+  - K6 Performance Testing
+expertise:
+  - Test Automation Frameworks
+  - API Testing & Automation
+  - Mobile & Desktop Automation
+  - Performance Testing
+  - Manual & Exploratory Testing
+  - CI/CD Integration
+```
+
+### 💭 What I Do
+
+- 🚀 **Leading automation initiatives** at Bit Mascot, transforming QA processes and building scalable test frameworks
+- 💻 **Architecting end-to-end automation solutions** for web, mobile, desktop, and API testing
+- 🔧 **Designing CI/CD pipelines** that integrate seamlessly with Jenkins, Docker, and GitHub Actions
+- 🎯 **Mentoring teams** on test automation best practices, code quality, and agile methodologies
+- 🐛 **Finding bugs before users do** - because prevention is better than production fires!
+- 💬 Ask me about **Test Automation Frameworks, Performance Testing, Mobile Automation, or anything QA!**
+- 📧 Reach me at: **mohammadshuvoali@gmail.com**
+
+**⚡ Fun fact:** *I don't break software - I just find the bugs before they find the users. Also, I've never met a "quick fix" that was actually quick. 🐛⏰*
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🔬 Testing Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/PyWinAuto-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyWinAuto"/>
+  <img src="https://img.shields.io/badge/Rest_Assured-109D59?style=for-the-badge&logo=rest&logoColor=white" alt="Rest Assured"/>
+</p>
+
+### 🌐 API & Performance Testing
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
+  <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6"/>
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+### 🗄️ Database & Query Languages
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PL--SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL"/>
+</p>
+
+### 🔧 DevOps & CI/CD
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### 📋 Project Management & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/ActiveCollab-7952B3?style=for-the-badge&logo=activecollab&logoColor=white" alt="ActiveCollab"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
+
+### 📚 Methodologies & Best Practices
+<p>
+  <img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
+  <img src="https://img.shields.io/badge/BDD-4A154B?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
+  <img src="https://img.shields.io/badge/SDLC-0078D4?style=for-the-badge&logo=sdlc&logoColor=white" alt="SDLC"/>
+  <img src="https://img.shields.io/badge/STLC-00B388?style=for-the-badge&logo=stlc&logoColor=white" alt="STLC"/>
+  <img src="https://img.shields.io/badge/Manual_Testing-000000?style=for-the-badge&logo=testing&logoColor=white" alt="Manual Testing"/>
+  <img src="https://img.shields.io/badge/Automation_Testing-1572B6?style=for-the-badge&logo=automation&logoColor=white" alt="Automation Testing"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadshuvoali&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadshuvoali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=mohammadshuvoali&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=bf91f3" alt="GitHub Streak" height="180"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohammadshuvoali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" width="400"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Quality is not an act, it is a habit." - Aristotle
+
+### 📫 Let's Connect and Build Quality Software Together!
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadshuvoali)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadshuvoali@gmail.com)
+
+---
+
+**⭐ From [MohammadShuvoAli](https://github.com/MohammadShuvoAli) | Made with ❤️ and lots of ☕**
+
+</div>
