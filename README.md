@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Shuvo
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automation+Lead+%40+Bit+Mascot;QA+Engineer+%7C+SDET;Passionate+about+Quality;Building+Scalable+Test+Frameworks" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automation+Lead+%40+Bit+Mascot;QA+Engineer+%7C+SDET;Passionate+about+Quality;Building+Scalable+Test+Frameworks" alt="Typing SVG" /></a>
 
 ### 🎓 CSE Graduate from AIUB | 💻 Passionate Programmer | 🚀 Test Automation Enthusiast
 
@@ -19,25 +19,27 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
-
 ## 🚀 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 ```yaml
 name: Mohammad Shuvo Ali
-location: Bangladesh
-current_role: Automation Lead @ Bit Mascot
-education: Computer Science & Engineering (CSE) - AIUB
+location: Bangladesh 🇧🇩
+role: Automation Lead @ Bit Mascot
+education: CSE - AIUB
+
 focus: Test Automation & Quality Engineering
-currently_learning: 
-  - Playwright
-  - K6 Performance Testing
+specialization: [Web, Mobile, Desktop, API]
+
+currently_learning: [Security Testing, Kubernetes]
+
 expertise:
-  - Test Automation Frameworks
-  - API Testing & Automation
-  - Mobile & Desktop Automation
-  - Performance Testing
-  - Manual & Exploratory Testing
+  - E2E Test Automation (Web, Mobile, Desktop)
+  - API Testing & Automation  
+  - Unit & Integration Testing
+  - BDD & Behavior-Driven Development
+  - Performance & Load Testing
   - CI/CD Integration
 ```
 
@@ -59,20 +61,42 @@ expertise:
 
 ## 🛠️ Technical Arsenal
 
-### 🔬 Testing Frameworks & Tools
+### 🌐 Web Automation
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+</p>
+
+### 📱 Mobile & Desktop Automation
+<p>
   <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
   <img src="https://img.shields.io/badge/PyWinAuto-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyWinAuto"/>
+</p>
+
+### 🧪 Testing Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
+</p>
+
+### 🥒 BDD Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/Behave-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
+  <img src="https://img.shields.io/badge/BDD-4A154B?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
+</p>
+
+### 🔌 API Testing & Automation
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Rest_Assured-109D59?style=for-the-badge&logo=rest&logoColor=white" alt="Rest Assured"/>
 </p>
 
-### 🌐 API & Performance Testing
+### ⚡ Performance Testing
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white" alt="JMeter"/>
   <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="K6"/>
 </p>
@@ -82,6 +106,7 @@ expertise:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
@@ -110,16 +135,6 @@ expertise:
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-</p>
-
-### 📚 Methodologies & Best Practices
-<p>
-  <img src="https://img.shields.io/badge/Agile-0095D5?style=for-the-badge&logo=agile&logoColor=white" alt="Agile"/>
-  <img src="https://img.shields.io/badge/BDD-4A154B?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
-  <img src="https://img.shields.io/badge/SDLC-0078D4?style=for-the-badge&logo=sdlc&logoColor=white" alt="SDLC"/>
-  <img src="https://img.shields.io/badge/STLC-00B388?style=for-the-badge&logo=stlc&logoColor=white" alt="STLC"/>
-  <img src="https://img.shields.io/badge/Manual_Testing-000000?style=for-the-badge&logo=testing&logoColor=white" alt="Manual Testing"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-1572B6?style=for-the-badge&logo=automation&logoColor=white" alt="Automation Testing"/>
 </p>
 
 ---
