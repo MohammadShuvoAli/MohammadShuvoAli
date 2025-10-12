@@ -38,7 +38,7 @@ expertise:
   - E2E Test Automation (Web, Mobile, Desktop)
   - API Testing & Automation  
   - Unit & Integration Testing
-  - BDD & Behavior-Driven Development
+  - BDD & Page Object Model (POM)
   - Performance & Load Testing
   - CI/CD Integration
 ```
@@ -61,38 +61,27 @@ expertise:
 
 ## 🛠️ Technical Arsenal
 
-### 🌐 Web Automation
+### 🔬 Automation & Testing Tools
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
-</p>
-
-### 📱 Mobile & Desktop Automation
-<p>
   <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"/>
   <img src="https://img.shields.io/badge/PyWinAuto-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyWinAuto"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Rest_Assured-109D59?style=for-the-badge&logo=rest&logoColor=white" alt="Rest Assured"/>
 </p>
 
-### 🧪 Testing Frameworks
+### 🧪 Testing Frameworks & Methodologies
 <p>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
   <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
-</p>
-
-### 🥒 BDD Frameworks
-<p>
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
   <img src="https://img.shields.io/badge/Behave-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
   <img src="https://img.shields.io/badge/BDD-4A154B?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD"/>
-</p>
-
-### 🔌 API Testing & Automation
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Rest_Assured-109D59?style=for-the-badge&logo=rest&logoColor=white" alt="Rest Assured"/>
+  <img src="https://img.shields.io/badge/Page_Object_Model-FF6B6B?style=for-the-badge&logo=target&logoColor=white" alt="POM"/>
 </p>
 
 ### ⚡ Performance Testing
