@@ -1,6 +1,6 @@
 <div align="center">
   
-[![MasterHead](https://raw.githubusercontent.com/MohammadShuvoAli/MohammadShuvoAli/main/bannar.gif)](https://www.linkedin.com/in/mohammadshuvoali/)
+[![MasterHead](bannar.gif)](https://www.linkedin.com/in/mohammadshuvoali/)
 
 # 👋 Hi, I'm Shuvo
 
@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/banner.gif">
 
 ```yaml
 name: Mohammad Shuvo Ali
