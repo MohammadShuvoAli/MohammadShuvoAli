@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 315" width="760" height="315" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace">
+  <rect width="760" height="315" rx="10" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1"/>
+
+  <circle cx="22" cy="22" r="5.5" fill="#FF5F56"/>
+  <circle cx="42" cy="22" r="5.5" fill="#FFBD2E"/>
+  <circle cx="62" cy="22" r="5.5" fill="#27C93F"/>
+  <text x="380" y="26" font-size="11" fill="#6E7681" text-anchor="middle">what-i-do.spec.ts</text>
+
+  <text x="22" y="60" font-size="13" fill="#57606A">$ npx playwright test what-i-do.spec.ts</text>
+  <text x="22" y="88" font-size="13" fill="#8250DF" font-weight="700">RUNS  shuvo.daily-work.spec.ts</text>
+
+  <g opacity="0">
+    <text x="32" y="118" font-size="15" fill="#1A7F37" font-weight="700">✓</text>
+    <text x="52" y="118" font-size="13" fill="#24292F">leads automation strategy for enterprise platforms</text>
+    <text x="680" y="118" font-size="11" fill="#6E7681">0.8s</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.25s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="32" y="143" font-size="15" fill="#1A7F37" font-weight="700">✓</text>
+    <text x="52" y="143" font-size="13" fill="#24292F">architects AI-driven test systems with Claude · Codex · Cursor · Bedrock</text>
+    <text x="680" y="143" font-size="11" fill="#6E7681">1.4s</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.25s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="32" y="168" font-size="15" fill="#1A7F37" font-weight="700">✓</text>
+    <text x="52" y="168" font-size="13" fill="#24292F">builds MCP-powered QA workflows + auto-reporting to Jira / Confluence</text>
+    <text x="680" y="168" font-size="11" fill="#6E7681">1.1s</text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.25s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="32" y="193" font-size="15" fill="#1A7F37" font-weight="700">✓</text>
+    <text x="52" y="193" font-size="13" fill="#24292F">designs Playwright · Appium · PyWinAuto frameworks at enterprise scale</text>
+    <text x="680" y="193" font-size="11" fill="#6E7681">2.3s</text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.25s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="32" y="218" font-size="15" fill="#1A7F37" font-weight="700">✓</text>
+    <text x="52" y="218" font-size="13" fill="#24292F">trains engineering teams on agentic QA workflows</text>
+    <text x="680" y="218" font-size="11" fill="#6E7681">0.6s</text>
+    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.25s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="32" y="243" font-size="15" fill="#1A7F37" font-weight="700">✓</text>
+    <text x="52" y="243" font-size="13" fill="#24292F">translates ambiguous requirements into testable specs</text>
+    <text x="680" y="243" font-size="11" fill="#6E7681">3.2s</text>
+    <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.25s" fill="freeze"/>
+  </g>
+
+  <text x="22" y="275" font-size="11" opacity="0" xml:space="preserve"><tspan fill="#6E7681">Tests: </tspan><tspan fill="#1A7F37" font-weight="700">6 passed</tspan><tspan fill="#6E7681"> · 0 failed · 6 total · Coverage: </tspan><tspan fill="#1A7F37" font-weight="700">100%</tspan><tspan fill="#6E7681"> · everything needed — covered by </tspan><tspan fill="#8250DF" font-weight="700">Shuvo</tspan><animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.3s" fill="freeze"/></text>
+
+  <text x="22" y="298" font-size="10" opacity="0" xml:space="preserve"><tspan fill="#6E7681">// no </tspan><tspan fill="#57606A" font-style="italic">"quick fix"</tspan><tspan fill="#6E7681"> detected · zero regressions shipped · </tspan><tspan fill="#57606A" font-style="italic">"works on my machine"</tspan><tspan fill="#6E7681"> rejected at PR</tspan><animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.3s" fill="freeze"/></text>
+</svg>

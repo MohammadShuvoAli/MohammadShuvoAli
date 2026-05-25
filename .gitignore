@@ -1,0 +1,66 @@
+# JetBrains IDEs (IntelliJ, WebStorm, PyCharm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# Backup / temp files
+*.bak
+*.orig
+*.tmp
+*~
+
+# Local notes / drafts (don't commit work-in-progress notes)
+NOTES.md
+DRAFT.md
+.notes/
+
+# Environment / secrets (just in case)
+.env
+.env.local
+*.pem
+*.key
+
+# Logs
+*.log
+profile-mobile.png
+.playwright-mcp/page-2026-05-25T12-32-35-123Z.yml
+profile-desktop.png
+profile-dark.png
+profile-light.png
