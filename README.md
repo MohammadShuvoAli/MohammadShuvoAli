@@ -31,38 +31,20 @@ I help teams ship faster by turning brittle, manual process into systems they ca
 
 Enterprise platforms where I owned the full quality loop — breaking requirements into testable specs, automating the web and API layers, and load-testing releases before real traffic did.
 
-<table>
-<tr>
-<td align="center" valign="middle" width="150">
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="44" alt="EventBookings"/></picture>
-</td>
-<td valign="middle">
-<b>Event ticketing platform</b><br/>
-<sub>Multi-region ticketing. Turned event-type requirements into testable specs, automated checkout and payments across web + API, and modelled real event drops in K6 load tests.</sub><br/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="34" alt="EventBookings"/></picture>
+
+**Event ticketing platform** — Multi-region ticketing. Turned event-type requirements into testable specs, automated checkout and payments across web + API, and modelled real event drops in K6 load tests.<br/>
 <sub><code>Playwright</code> · <code>TypeScript</code> · <code>Stripe</code> · <code>REST</code></sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle" width="150">
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="40" alt="Exsited"/></picture>
-</td>
-<td valign="middle">
-<b>Subscription billing &amp; ERP platform</b><br/>
-<sub>Broke billing requirements into testable specs, built the web + API regression suites releases were gated on, and performance-tested the public API.</sub><br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="30" alt="Exsited"/></picture>
+
+**Subscription billing &amp; ERP platform** — Broke billing requirements into testable specs, built the web + API regression suites releases were gated on, and performance-tested the public API.<br/>
 <sub><code>Playwright</code> · <code>TypeScript</code> · <code>REST</code> · <code>Jenkins</code></sub>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle" width="150">
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="34" alt="WebCommander"/></picture>
-</td>
-<td valign="middle">
-<b>Website builder + CMS</b><br/>
-<sub>Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder UI and the published-site output, and kept visual + performance regressions out of releases.</sub><br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="26" alt="WebCommander"/></picture>
+
+**Website builder + CMS** — Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder UI and the published-site output, and kept visual + performance regressions out of releases.<br/>
 <sub><code>Playwright</code> · <code>Cypress</code> · <code>TypeScript</code> · <code>PHP</code></sub>
-</td>
-</tr>
-</table>
 
 <div align="center">
 
