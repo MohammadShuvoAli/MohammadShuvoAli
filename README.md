@@ -32,29 +32,29 @@ I help teams ship faster by turning brittle, manual process into systems they ca
 Enterprise platforms where I owned the full quality loop. On each one I ran **Web, UI, API and Performance** testing end-to-end — translating requirements into testable specs — and built the **CI/CD automation pipeline** that gated every release.
 
 <details open>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="22" alt="EventBookings"/></picture>&nbsp; <b>Event ticketing platform</b> &nbsp;—&nbsp; multi-region checkout &amp; payments, K6 load-tested</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="22" alt="EventBookings"/></picture>&nbsp; <b>Event ticketing platform</b> &nbsp;—&nbsp; full-stack QA across web, UI, API &amp; load</summary>
 
-> Multi-region ticketing. Turned event-type requirements into testable specs, automated checkout and payments across web + API, and modelled real event drops in K6 load tests.
+> Multi-region ticketing. Translated event-type requirements into testable specs, then automated the booking **UI**, checkout and payments across **web + API**, modelled real event drops in **K6** load tests, and gated every release through a **CI/CD** pipeline.
 >
-> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>Stripe</code> · <code>REST</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
+> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>K6</code> · <code>Stripe</code> · <code>REST</code> · <code>CI/CD</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
 
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="20" alt="Exsited"/></picture>&nbsp; <b>Subscription billing &amp; ERP platform</b> &nbsp;—&nbsp; gated regression suites + public-API perf</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="20" alt="Exsited"/></picture>&nbsp; <b>Subscription billing &amp; ERP platform</b> &nbsp;—&nbsp; gated web/UI/API suites + public-API perf</summary>
 
-> Broke billing requirements into testable specs, built the web + API regression suites releases were gated on, and performance-tested the public API.
+> Broke billing requirements into testable specs, built the **web, UI + API** regression suites releases were gated on, performance-tested the public API, and ran the whole suite through a **Jenkins CI/CD** pipeline.
 >
-> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>REST</code> · <code>Jenkins</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
+> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>REST</code> · <code>Performance</code> · <code>Jenkins</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
 
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="18" alt="WebCommander"/></picture>&nbsp; <b>Website builder + CMS</b> &nbsp;—&nbsp; builder UI + published output, zero visual regressions</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="18" alt="WebCommander"/></picture>&nbsp; <b>Website builder + CMS</b> &nbsp;—&nbsp; builder UI, web/API output + performance</summary>
 
-> Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder UI and the published-site output, and kept visual + performance regressions out of releases.
+> Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder **UI**, the published-site **web** output and its **API** layer, performance- and visual-tested key flows, and wired it all into a **CI/CD** pipeline that gated releases.
 >
-> <sub><code>Playwright</code> · <code>Cypress</code> · <code>TypeScript</code> · <code>PHP</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
+> <sub><code>Playwright</code> · <code>Cypress</code> · <code>TypeScript</code> · <code>PHP</code> · <code>Performance</code> · <code>CI/CD</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
 
 </details>
 
