@@ -34,7 +34,7 @@ Enterprise platforms where I owned the full quality loop — breaking requiremen
 <table>
 <tr>
 <td align="center" valign="middle" width="150">
-<img src="resources/clients/eventbookings.svg" height="44" alt="EventBookings"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="44" alt="EventBookings"/></picture>
 </td>
 <td valign="middle">
 <b>Event ticketing platform</b><br/>
@@ -44,7 +44,7 @@ Enterprise platforms where I owned the full quality loop — breaking requiremen
 </tr>
 <tr>
 <td align="center" valign="middle" width="150">
-<img src="resources/clients/exsited.svg" height="40" alt="Exsited"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="40" alt="Exsited"/></picture>
 </td>
 <td valign="middle">
 <b>Subscription billing &amp; ERP platform</b><br/>
@@ -65,13 +65,20 @@ Enterprise platforms where I owned the full quality loop — breaking requiremen
 </table>
 
 <div align="center">
+
 <sub>Read the case studies → <a href="https://shuvoali.pages.dev/projects">shuvoali.pages.dev/projects</a></sub>
-<br/><br/>
-<sub><i>Also tested products across</i></sub><br/>
-<img src="resources/clients/nintendo.svg" height="34" alt="Nintendo"/> &nbsp;&nbsp;
-<img src="resources/clients/kenvue.svg" height="34" alt="Kenvue"/> &nbsp;&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/steritech.png"><img src="resources/clients/steritech-light.png" height="34" alt="Steritech"/></picture> &nbsp;&nbsp;
-<img src="resources/clients/reed-events.png" height="34" alt="Reed Events"/>
+
+<sub><i>— also tested products across —</i></sub>
+
+<table>
+<tr>
+<td align="center" valign="middle" width="130"><img src="resources/clients/nintendo.svg" height="30" alt="Nintendo"/></td>
+<td align="center" valign="middle" width="130"><img src="resources/clients/kenvue.svg" height="26" alt="Kenvue"/></td>
+<td align="center" valign="middle" width="130"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/steritech.png"><img src="resources/clients/steritech-light.png" height="30" alt="Steritech"/></picture></td>
+<td align="center" valign="middle" width="130"><img src="resources/clients/reed-events.png" height="30" alt="Reed Events"/></td>
+</tr>
+</table>
+
 </div>
 
 <img src="resources/divider.svg" width="100%" height="4" alt=""/>
