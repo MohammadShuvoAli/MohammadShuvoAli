@@ -29,7 +29,7 @@ I help teams ship faster by turning brittle, manual process into systems they ca
 
 ## `▸` Selected work
 
-Enterprise platforms where I owned the full quality loop — breaking requirements into testable specs, automating the web and API layers, and load-testing releases before real traffic did.
+Enterprise platforms where I owned the full quality loop. On each one I ran **Web, UI, API and Performance** testing end-to-end — translating requirements into testable specs — and built the **CI/CD automation pipeline** that gated every release.
 
 <details open>
 <summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="22" alt="EventBookings"/></picture>&nbsp; <b>Event ticketing platform</b> &nbsp;—&nbsp; multi-region checkout &amp; payments, K6 load-tested</summary>
