@@ -31,20 +31,38 @@ I help teams ship faster by turning brittle, manual process into systems they ca
 
 Enterprise platforms where I owned the full quality loop — breaking requirements into testable specs, automating the web and API layers, and load-testing releases before real traffic did.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="34" alt="EventBookings"/></picture>
+<details open>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="22" alt="EventBookings"/></picture>&nbsp; <b>Event ticketing platform</b> &nbsp;—&nbsp; multi-region checkout &amp; payments, K6 load-tested</summary>
 
-**Event ticketing platform** — Multi-region ticketing. Turned event-type requirements into testable specs, automated checkout and payments across web + API, and modelled real event drops in K6 load tests.<br/>
-<sub><code>Playwright</code> · <code>TypeScript</code> · <code>Stripe</code> · <code>REST</code></sub>
+> <sub>`01 · CASE STUDY`</sub>
+>
+> Multi-region ticketing. Turned event-type requirements into testable specs, automated checkout and payments across web + API, and modelled real event drops in K6 load tests.
+>
+> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>Stripe</code> · <code>REST</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="30" alt="Exsited"/></picture>
+</details>
 
-**Subscription billing &amp; ERP platform** — Broke billing requirements into testable specs, built the web + API regression suites releases were gated on, and performance-tested the public API.<br/>
-<sub><code>Playwright</code> · <code>TypeScript</code> · <code>REST</code> · <code>Jenkins</code></sub>
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="20" alt="Exsited"/></picture>&nbsp; <b>Subscription billing &amp; ERP platform</b> &nbsp;—&nbsp; gated regression suites + public-API perf</summary>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="26" alt="WebCommander"/></picture>
+> <sub>`02 · CASE STUDY`</sub>
+>
+> Broke billing requirements into testable specs, built the web + API regression suites releases were gated on, and performance-tested the public API.
+>
+> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>REST</code> · <code>Jenkins</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
 
-**Website builder + CMS** — Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder UI and the published-site output, and kept visual + performance regressions out of releases.<br/>
-<sub><code>Playwright</code> · <code>Cypress</code> · <code>TypeScript</code> · <code>PHP</code></sub>
+</details>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="18" alt="WebCommander"/></picture>&nbsp; <b>Website builder + CMS</b> &nbsp;—&nbsp; builder UI + published output, zero visual regressions</summary>
+
+> <sub>`03 · CASE STUDY`</sub>
+>
+> Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder UI and the published-site output, and kept visual + performance regressions out of releases.
+>
+> <sub><code>Playwright</code> · <code>Cypress</code> · <code>TypeScript</code> · <code>PHP</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
+
+</details>
 
 <div align="center">
 
