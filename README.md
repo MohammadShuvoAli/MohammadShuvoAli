@@ -9,7 +9,7 @@
 <a href="https://shuvoali.pages.dev">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mohammadshuvoali">LinkedIn</a> &nbsp;·&nbsp;
 <a href="https://www.leetcode.com/shuvo4o4">LeetCode</a> &nbsp;·&nbsp;
-<a href="mailto:shuvo.a@webalive.com.au">Email</a>
+<a href="mailto:mohammadshuvoali@gmail.com">Email</a>
 </p>
 
 </div>
@@ -133,7 +133,7 @@ Enterprise platforms where I owned the full quality loop — breaking requiremen
 
 <a href="https://shuvoali.pages.dev">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mohammadshuvoali">LinkedIn</a> &nbsp;·&nbsp;
-<a href="mailto:shuvo.a@webalive.com.au">shuvo.a@webalive.com.au</a>
+<a href="mailto:mohammadshuvoali@gmail.com">mohammadshuvoali@gmail.com</a>
 
 <sub><b>GMT+6 · usually replying while a test suite runs.</b></sub>
 
