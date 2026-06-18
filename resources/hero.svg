@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 320" width="820" height="320" font-family="JetBrains Mono, Fira Code, Menlo, Consolas, monospace">
+  <rect x="0.5" y="0.5" width="819" height="319" rx="13" fill="#0D1117" stroke="#30363D"/>
+
+  <!-- window chrome -->
+  <circle cx="26" cy="25" r="6" fill="#FF5F56"/>
+  <circle cx="48" cy="25" r="6" fill="#FFBD2E"/>
+  <circle cx="70" cy="25" r="6" fill="#27C93F"/>
+  <text x="410" y="29" font-size="12" fill="#6B7280" text-anchor="middle">shuvo@operator: ~</text>
+  <line x1="0" y1="50" x2="820" y2="50" stroke="#1B222C"/>
+
+  <!-- whoami -->
+  <text x="34" y="90" font-size="14"><tspan fill="#22C55E" font-weight="700">$</tspan><tspan fill="#8B949E"> whoami</tspan></text>
+
+  <g opacity="0">
+    <text x="34" y="128" font-size="27" font-weight="700" fill="#F5F3FF">Mohammad Shuvo Ali</text>
+    <text x="36" y="153" font-size="13" font-weight="700" fill="#C084FC" letter-spacing="3">AGENTIC AUTOMATION ENGINEER</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.4s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="34" y="197" font-size="18" xml:space="preserve"><tspan fill="#7C7C8A">&gt; </tspan><tspan fill="#E5E7EB">I build systems that </tspan><tspan fill="#E879C7" font-weight="700">test, ship, and run themselves.</tspan><tspan fill="#E879C7" font-weight="700"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/> ▍</tspan></text>
+    <text x="48" y="223" font-size="13" fill="#8B949E">Playwright at enterprise scale · agent-driven engineering · AI baked into live products.</text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/>
+  </g>
+
+  <!-- meta row -->
+  <g opacity="0">
+    <line x1="34" y1="252" x2="786" y2="252" stroke="#1B222C"/>
+    <text x="34" y="284" font-size="12.5" xml:space="preserve"><tspan fill="#6B7280">location  </tspan><tspan fill="#E5E7EB">Dhaka, BD</tspan><tspan fill="#6B7280"> · GMT+6</tspan></text>
+    <text x="270" y="284" font-size="12.5" xml:space="preserve"><tspan fill="#6B7280">stack  </tspan><tspan fill="#E5E7EB">Claude · Codex · n8n · TypeScript</tspan></text>
+    <text x="660" y="284" font-size="12.5"><tspan fill="#6B7280">status  </tspan><tspan fill="#22C55E" font-weight="700">available</tspan></text>
+    <circle cx="650" cy="280" r="4" fill="#22C55E"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+  </g>
+</svg>
