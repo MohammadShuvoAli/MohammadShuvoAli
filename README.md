@@ -89,24 +89,32 @@ Enterprise platforms where I owned the full quality loop — breaking requiremen
 
 #### `›` AI &amp; Agents
 
-<table><tr>
+<table>
+<tr>
 <td align="center" width="96"><img src="resources/tools/claude.svg" height="40"/><br/><sub><b>Claude</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/codex.svg" height="40"/><br/><sub><b>Codex</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/cursor.svg" height="40"/><br/><sub><b>Cursor</b></sub></td>
+</tr>
+<tr>
 <td align="center" width="96"><img src="resources/tools/aws-bedrock.svg" height="40"/><br/><sub><b>Bedrock</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/n8n.svg" height="40"/><br/><sub><b>n8n</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/mcp.svg" height="40"/><br/><sub><b>MCP</b></sub></td>
-</tr></table>
+</tr>
+</table>
 
 #### `›` Automation
 
-<table><tr>
+<table>
+<tr>
 <td align="center" width="96"><img src="resources/tools/playwright.svg" height="40"/><br/><sub><b>Playwright</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/cypress.svg" height="40"/><br/><sub><b>Cypress</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/selenium.svg" height="40"/><br/><sub><b>Selenium</b></sub></td>
+</tr>
+<tr>
 <td align="center" width="96"><img src="resources/tools/appium.svg" height="40"/><br/><sub><b>Appium</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/python.svg" height="40"/><br/><sub><b>PyWinAuto</b></sub></td>
-</tr></table>
+</tr>
+</table>
 
 #### `›` API &amp; Performance
 
@@ -119,13 +127,17 @@ Enterprise platforms where I owned the full quality loop — breaking requiremen
 
 #### `›` CI/CD &amp; DevOps
 
-<table><tr>
+<table>
+<tr>
 <td align="center" width="96"><img src="resources/tools/jenkins.svg" height="40"/><br/><sub><b>Jenkins</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/docker.svg" height="40"/><br/><sub><b>Docker</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/github-actions.svg" height="40"/><br/><sub><b>GH Actions</b></sub></td>
+</tr>
+<tr>
 <td align="center" width="96"><img src="resources/tools/bitbucket.svg" height="40"/><br/><sub><b>Bitbucket</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/git.svg" height="40"/><br/><sub><b>Git</b></sub></td>
-</tr></table>
+</tr>
+</table>
 
 <sub><b>Languages</b> &nbsp;TypeScript · JavaScript · Python · Java · PHP &nbsp;&nbsp;|&nbsp;&nbsp; <b>Frameworks</b> &nbsp;Jest · Mocha · Pytest · Robot · Cucumber · Behave (BDD / POM)</sub><br/>
 <sub><b>Data</b> &nbsp;MySQL · Oracle · SQL / PL-SQL &nbsp;&nbsp;|&nbsp;&nbsp; <b>Ship &amp; track</b> &nbsp;Jira · Confluence · Slack · MS Teams · Notion</sub>
