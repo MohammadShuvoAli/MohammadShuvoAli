@@ -31,8 +31,16 @@ I help teams ship faster by turning brittle, manual process into systems they ca
 
 Enterprise platforms where I owned the full quality loop. On each one I ran **Web, UI, API and Performance** testing end-to-end — translating requirements into testable specs — and built the **CI/CD automation pipeline** that gated every release.
 
+<table>
+<tr>
+<td align="center" valign="middle" width="180"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="32" alt="EventBookings"/></picture></td>
+<td align="center" valign="middle" width="180"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="26" alt="Exsited"/></picture></td>
+<td align="center" valign="middle" width="180"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="22" alt="WebCommander"/></picture></td>
+</tr>
+</table>
+
 <details open>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="22" alt="EventBookings"/></picture>&nbsp; <b>Event ticketing platform</b> &nbsp;—&nbsp; full-stack QA across web, UI, API &amp; load</summary>
+<summary><b>Event ticketing platform</b> &nbsp;—&nbsp; full-stack QA across web, UI, API &amp; load</summary>
 
 > Multi-region ticketing. Translated event-type requirements into testable specs, then automated the booking **UI**, checkout and payments across **web + API**, modelled real event drops in **K6** load tests, and gated every release through a **CI/CD** pipeline.
 >
@@ -41,7 +49,7 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="20" alt="Exsited"/></picture>&nbsp; <b>Subscription billing &amp; ERP platform</b> &nbsp;—&nbsp; gated web/UI/API suites + public-API perf</summary>
+<summary><b>Subscription billing &amp; ERP platform</b> &nbsp;—&nbsp; gated web/UI/API suites + public-API perf</summary>
 
 > Broke billing requirements into testable specs, built the **web, UI + API** regression suites releases were gated on, performance-tested the public API, and ran the whole suite through a **Jenkins CI/CD** pipeline.
 >
@@ -50,7 +58,7 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="18" alt="WebCommander"/></picture>&nbsp; <b>Website builder + CMS</b> &nbsp;—&nbsp; builder UI, web/API output + performance</summary>
+<summary><b>Website builder + CMS</b> &nbsp;—&nbsp; builder UI, web/API output + performance</summary>
 
 > Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder **UI**, the published-site **web** output and its **API** layer, performance- and visual-tested key flows, and wired it all into a **CI/CD** pipeline that gated releases.
 >
