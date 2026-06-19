@@ -54,11 +54,13 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 
 ## `▸` What I build with
 
+<div align="center">
+
 <sub>The stack I actually reach for, grouped by the job it does — and increasingly, the one my agents reach for on my behalf.</sub>
 
 #### `›` AI &amp; Agents
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="96"><img src="resources/tools/claude.svg" height="40"/><br/><sub><b>Claude</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/codex.svg" height="40"/><br/><sub><b>Codex</b></sub></td>
@@ -73,7 +75,7 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 
 #### `›` Automation
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="96"><img src="resources/tools/playwright.svg" height="40"/><br/><sub><b>Playwright</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/cypress.svg" height="40"/><br/><sub><b>Cypress</b></sub></td>
@@ -87,7 +89,7 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 
 #### `›` API &amp; Performance
 
-<table><tr>
+<table align="center"><tr>
 <td align="center" width="96"><img src="resources/tools/postman.svg" height="40"/><br/><sub><b>Postman</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/rest-assured.svg" height="40"/><br/><sub><b>Rest Assured</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/jmeter.svg" height="40"/><br/><sub><b>JMeter</b></sub></td>
@@ -96,7 +98,7 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 
 #### `›` CI/CD &amp; DevOps
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="96"><img src="resources/tools/jenkins.svg" height="40"/><br/><sub><b>Jenkins</b></sub></td>
 <td align="center" width="96"><img src="resources/tools/docker.svg" height="40"/><br/><sub><b>Docker</b></sub></td>
@@ -110,6 +112,8 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 
 <sub><b>Languages</b> &nbsp;TypeScript · JavaScript · Python · Java · PHP &nbsp;&nbsp;|&nbsp;&nbsp; <b>Frameworks</b> &nbsp;Jest · Mocha · Pytest · Robot · Cucumber · Behave (BDD / POM)</sub><br/>
 <sub><b>Data</b> &nbsp;MySQL · Oracle · SQL / PL-SQL &nbsp;&nbsp;|&nbsp;&nbsp; <b>Ship &amp; track</b> &nbsp;Jira · Confluence · Slack · MS Teams · Notion</sub>
+
+</div>
 
 <img src="resources/divider.svg" width="100%" height="4" alt=""/>
 
