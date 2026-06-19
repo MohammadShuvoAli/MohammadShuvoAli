@@ -39,33 +39,6 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 </tr>
 </table>
 
-<details open>
-<summary><b>Event ticketing platform</b> &nbsp;—&nbsp; full-stack QA across web, UI, API &amp; load</summary>
-
-> Multi-region ticketing. Translated event-type requirements into testable specs, then automated the booking **UI**, checkout and payments across **web + API**, modelled real event drops in **K6** load tests, and gated every release through a **CI/CD** pipeline.
->
-> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>K6</code> · <code>Stripe</code> · <code>REST</code> · <code>CI/CD</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
-
-</details>
-
-<details>
-<summary><b>Subscription billing &amp; ERP platform</b> &nbsp;—&nbsp; gated web/UI/API suites + public-API perf</summary>
-
-> Broke billing requirements into testable specs, built the **web, UI + API** regression suites releases were gated on, performance-tested the public API, and ran the whole suite through a **Jenkins CI/CD** pipeline.
->
-> <sub><code>Playwright</code> · <code>TypeScript</code> · <code>REST</code> · <code>Performance</code> · <code>Jenkins</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
-
-</details>
-
-<details>
-<summary><b>Website builder + CMS</b> &nbsp;—&nbsp; builder UI, web/API output + performance</summary>
-
-> Drag-and-drop site builder. Mapped widget requirements to coverage, automated the builder **UI**, the published-site **web** output and its **API** layer, performance- and visual-tested key flows, and wired it all into a **CI/CD** pipeline that gated releases.
->
-> <sub><code>Playwright</code> · <code>Cypress</code> · <code>TypeScript</code> · <code>PHP</code> · <code>Performance</code> · <code>CI/CD</code></sub> &nbsp;·&nbsp; <a href="https://shuvoali.pages.dev/projects">read the case study →</a>
-
-</details>
-
 <div align="center">
 
 <sub>Read the case studies → <a href="https://shuvoali.pages.dev/projects">shuvoali.pages.dev/projects</a></sub>
