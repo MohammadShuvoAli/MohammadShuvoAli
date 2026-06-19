@@ -48,8 +48,6 @@ Enterprise platforms where I owned the full quality loop. On each one I ran **We
 </tr>
 </table>
 
-<sub>Read the case studies → <a href="https://shuvoali.pages.dev/projects">shuvoali.pages.dev/projects</a></sub>
-
 </div>
 
 <img src="resources/divider.svg" width="100%" height="4" alt=""/>
