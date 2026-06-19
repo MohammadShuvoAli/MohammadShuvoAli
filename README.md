@@ -31,28 +31,24 @@ I help teams ship faster by turning brittle, manual process into systems they ca
 
 Enterprise platforms where I owned the full quality loop. On each one I ran **Web, UI, API and Performance** testing end-to-end — translating requirements into testable specs — and built the **CI/CD automation pipeline** that gated every release.
 
-<table>
-<tr>
-<td align="center" valign="middle" width="180"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="32" alt="EventBookings"/></picture></td>
-<td align="center" valign="middle" width="180"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="26" alt="Exsited"/></picture></td>
-<td align="center" valign="middle" width="180"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="22" alt="WebCommander"/></picture></td>
-</tr>
-</table>
-
 <div align="center">
 
-<sub>Read the case studies → <a href="https://shuvoali.pages.dev/projects">shuvoali.pages.dev/projects</a></sub>
-
-<sub><i>— also tested products across —</i></sub>
-
 <table>
 <tr>
-<td align="center" valign="middle" width="130"><img src="resources/clients/nintendo.svg" height="30" alt="Nintendo"/></td>
-<td align="center" valign="middle" width="130"><img src="resources/clients/kenvue.svg" height="26" alt="Kenvue"/></td>
-<td align="center" valign="middle" width="130"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/steritech.png"><img src="resources/clients/steritech-light.png" height="30" alt="Steritech"/></picture></td>
-<td align="center" valign="middle" width="130"><img src="resources/clients/reed-events.png" height="30" alt="Reed Events"/></td>
+<td align="center" valign="middle" width="150"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/eventbookings-dark.svg"><img src="resources/clients/eventbookings.svg" height="30" alt="EventBookings"/></picture></td>
+<td align="center" valign="middle" width="150"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/exsited-dark.svg"><img src="resources/clients/exsited.svg" height="24" alt="Exsited"/></picture></td>
+<td align="center" valign="middle" width="150"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/webcommander.png"><img src="resources/clients/webcommander-light.svg" height="20" alt="WebCommander"/></picture></td>
+<td align="center" valign="middle" width="150"><img src="resources/clients/nintendo.svg" height="28" alt="Nintendo"/></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="150"><img src="resources/clients/kenvue.svg" height="24" alt="Kenvue"/></td>
+<td align="center" valign="middle" width="150"><picture><source media="(prefers-color-scheme: dark)" srcset="resources/clients/steritech.png"><img src="resources/clients/steritech-light.png" height="28" alt="Steritech"/></picture></td>
+<td align="center" valign="middle" width="150"><img src="resources/clients/reed-events.png" height="28" alt="Reed Events"/></td>
+<td align="center" valign="middle" width="150"><a href="https://shuvoali.pages.dev/projects"><b>+ more</b></a></td>
 </tr>
 </table>
+
+<sub>Read the case studies → <a href="https://shuvoali.pages.dev/projects">shuvoali.pages.dev/projects</a></sub>
 
 </div>
 
